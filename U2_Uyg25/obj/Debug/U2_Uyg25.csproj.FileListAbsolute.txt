@@ -1,0 +1,10 @@
+C:\Users\Ogrenci.SBEML\Source\Repos\NesneOrnekler\U2_Uyg25\bin\Debug\U2_Uyg25.exe.config
+C:\Users\Ogrenci.SBEML\Source\Repos\NesneOrnekler\U2_Uyg25\bin\Debug\U2_Uyg25.exe
+C:\Users\Ogrenci.SBEML\Source\Repos\NesneOrnekler\U2_Uyg25\bin\Debug\U2_Uyg25.pdb
+C:\Users\Ogrenci.SBEML\Source\Repos\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.csproj.AssemblyReference.cache
+C:\Users\Ogrenci.SBEML\Source\Repos\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.Form1.resources
+C:\Users\Ogrenci.SBEML\Source\Repos\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.Properties.Resources.resources
+C:\Users\Ogrenci.SBEML\Source\Repos\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.csproj.GenerateResource.cache
+C:\Users\Ogrenci.SBEML\Source\Repos\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci.SBEML\Source\Repos\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.exe
+C:\Users\Ogrenci.SBEML\Source\Repos\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.pdb
