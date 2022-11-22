@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\UYG18\bin\Debug\UYG18.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\UYG18\bin\Debug\UYG18.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\UYG18\bin\Debug\UYG18.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\UYG18\obj\Debug\UYG18.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\UYG18\obj\Debug\UYG18.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\UYG18\obj\Debug\UYG18.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\UYG18\obj\Debug\UYG18.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\UYG18\obj\Debug\UYG18.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\UYG18\obj\Debug\UYG18.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\UYG18\obj\Debug\UYG18.pdb
