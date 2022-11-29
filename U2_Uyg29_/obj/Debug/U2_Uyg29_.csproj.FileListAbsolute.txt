@@ -1,0 +1,10 @@
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg29_\bin\Debug\U2_Uyg29_.exe.config
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg29_\bin\Debug\U2_Uyg29_.exe
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg29_\bin\Debug\U2_Uyg29_.pdb
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg29_\obj\Debug\U2_Uyg29_.csproj.AssemblyReference.cache
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg29_\obj\Debug\U2_Uyg29_.Form1.resources
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg29_\obj\Debug\U2_Uyg29_.Properties.Resources.resources
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg29_\obj\Debug\U2_Uyg29_.csproj.GenerateResource.cache
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg29_\obj\Debug\U2_Uyg29_.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg29_\obj\Debug\U2_Uyg29_.exe
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg29_\obj\Debug\U2_Uyg29_.pdb
