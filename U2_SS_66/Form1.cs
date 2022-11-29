@@ -26,5 +26,15 @@ namespace U2_SS_66
                 listBox1.Items.Add(random.Next(1, 100));
             }
         }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
