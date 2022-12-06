@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace U2_SS_69_2
+namespace U2_
 {
     public partial class Form1 : Form
     {
@@ -19,18 +19,14 @@ namespace U2_SS_69_2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int tp = 0;
-            for (int i = 0; i < 100; i=i+3)
+            for (int i = 1; i <= 10; i=i+2)
             {
-                tp = tp + i;
-                if (tp>200)
+                listBox1.Items.Add(i);
+                if (i>=7)
                 {
-                    MessageBox.Show(tp.ToString());
-                    MessageBox.Show("Limit aşıldı");
-                    break;
+                    continue;
                 }
             }
-            
         }
     }
 }

@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace U2_SS_69_2
+namespace U2_Uyg32
 {
     public partial class Form1 : Form
     {
@@ -19,18 +19,17 @@ namespace U2_SS_69_2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int tp = 0;
-            for (int i = 0; i < 100; i=i+3)
+            int s1, karesi;
+            try
             {
-                tp = tp + i;
-                if (tp>200)
-                {
-                    MessageBox.Show(tp.ToString());
-                    MessageBox.Show("Limit aşıldı");
-                    break;
-                }
+                s1 = Convert.ToInt32(textBox1.Text);
+                karesi = s1 * s1;
+                MessageBox.Show(karesi.ToString());
             }
-            
+            catch (Exception)
+            {
+                MessageBox.Show("Hatalı giriş yaptınız");
+            }
         }
     }
 }

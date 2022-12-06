@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace U2_SS_69_2
+namespace U2_SS_71
 {
     public partial class Form1 : Form
     {
@@ -19,18 +19,17 @@ namespace U2_SS_69_2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int tp = 0;
-            for (int i = 0; i < 100; i=i+3)
+            try
             {
-                tp = tp + i;
-                if (tp>200)
-                {
-                    MessageBox.Show(tp.ToString());
-                    MessageBox.Show("Limit aşıldı");
-                    break;
-                }
+                byte yuzde;
+                yuzde = Convert.ToByte(textBox1.Text);
+                progressBar1.Value = yuzde;
+
             }
-            
+            catch (Exception)
+            {
+                MessageBox.Show("Lütfen Geçerli 0-100 arasında Giriniz");
+            }
         }
     }
 }
