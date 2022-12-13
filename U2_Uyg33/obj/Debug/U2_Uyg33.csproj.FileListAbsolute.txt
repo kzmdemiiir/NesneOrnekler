@@ -7,3 +7,4 @@ C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg33\obj\Debug\U2_Uyg33.csproj.
 C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg33\obj\Debug\U2_Uyg33.csproj.CoreCompileInputs.cache
 C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg33\obj\Debug\U2_Uyg33.exe
 C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg33\obj\Debug\U2_Uyg33.pdb
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_Uyg33\obj\Debug\U2_Uyg33.csproj.AssemblyReference.cache

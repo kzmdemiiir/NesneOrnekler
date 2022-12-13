@@ -1,0 +1,10 @@
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\1234\bin\Debug\1234.exe.config
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\1234\bin\Debug\1234.exe
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\1234\bin\Debug\1234.pdb
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\1234\obj\Debug\_1234.Form1.resources
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\1234\obj\Debug\_1234.Properties.Resources.resources
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\1234\obj\Debug\U2_goldSoru5.csproj.GenerateResource.cache
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\1234\obj\Debug\U2_goldSoru5.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\1234\obj\Debug\1234.exe
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\1234\obj\Debug\1234.pdb
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\1234\obj\Debug\U2_goldSoru5.csproj.AssemblyReference.cache
