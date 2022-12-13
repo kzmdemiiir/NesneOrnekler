@@ -1,0 +1,10 @@
+C:\Users\Ogrenci.SBEML\Desktop\GoldSoru3\obj\Debug\GoldSoru3.csproj.AssemblyReference.cache
+C:\Users\Ogrenci.SBEML\Desktop\GoldSoru3\obj\Debug\GoldSoru3.Form1.resources
+C:\Users\Ogrenci.SBEML\Desktop\GoldSoru3\obj\Debug\GoldSoru3.Properties.Resources.resources
+C:\Users\Ogrenci.SBEML\Desktop\GoldSoru3\obj\Debug\GoldSoru3.csproj.GenerateResource.cache
+C:\Users\Ogrenci.SBEML\Desktop\GoldSoru3\obj\Debug\GoldSoru3.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci.SBEML\Desktop\GoldSoru3\bin\Debug\GoldSoru3.exe.config
+C:\Users\Ogrenci.SBEML\Desktop\GoldSoru3\bin\Debug\GoldSoru3.exe
+C:\Users\Ogrenci.SBEML\Desktop\GoldSoru3\bin\Debug\GoldSoru3.pdb
+C:\Users\Ogrenci.SBEML\Desktop\GoldSoru3\obj\Debug\GoldSoru3.exe
+C:\Users\Ogrenci.SBEML\Desktop\GoldSoru3\obj\Debug\GoldSoru3.pdb
