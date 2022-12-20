@@ -1,0 +1,10 @@
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_GoldSoru10\bin\Debug\U2_GoldSoru10.exe.config
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_GoldSoru10\bin\Debug\U2_GoldSoru10.exe
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_GoldSoru10\bin\Debug\U2_GoldSoru10.pdb
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.csproj.AssemblyReference.cache
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.Form1.resources
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.Properties.Resources.resources
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.csproj.GenerateResource.cache
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.exe
+C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.pdb
