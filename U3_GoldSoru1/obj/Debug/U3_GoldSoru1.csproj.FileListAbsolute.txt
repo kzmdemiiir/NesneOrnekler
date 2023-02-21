@@ -5,3 +5,10 @@ C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U3_GoldSoru1\obj\Debug\U3_GoldSoru1
 C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U3_GoldSoru1\obj\Debug\U3_GoldSoru1.csproj.CoreCompileInputs.cache
 C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U3_GoldSoru1\obj\Debug\U3_GoldSoru1.exe
 C:\Users\Ogrenci.SBEML\Desktop\NesneOrnekler\U3_GoldSoru1\obj\Debug\U3_GoldSoru1.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_GoldSoru1\bin\Debug\U3_GoldSoru1.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_GoldSoru1\bin\Debug\U3_GoldSoru1.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_GoldSoru1\bin\Debug\U3_GoldSoru1.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_GoldSoru1\obj\Debug\U3_GoldSoru1.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_GoldSoru1\obj\Debug\U3_GoldSoru1.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_GoldSoru1\obj\Debug\U3_GoldSoru1.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_GoldSoru1\obj\Debug\U3_GoldSoru1.pdb
